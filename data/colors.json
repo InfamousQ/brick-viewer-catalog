@@ -1,0 +1,18 @@
+{"format":1,"columns":["id","name","rgb","is_trans","y1","y2"],"rows":[
+[-1,"[Unknown]","0033B2",false,2000,2000],
+[0,"Black","05131D",false,1957,2027],
+[1,"Blue","0055BF",false,1949,2027],
+[2,"Green","237841",false,1949,2026],
+[4,"Red","C91A09",false,1949,2027],
+[7,"Light Gray","9BA19D",false,1954,2007],
+[14,"Yellow","F2CD37",false,1949,2026],
+[15,"White","FFFFFF",false,1949,2027],
+[36,"Trans-Red","C91A09",true,1969,2026],
+[41,"Trans-Light Blue","AEEFEC",true,1985,2026],
+[47,"Trans-Clear","FCFCFC",true,1954,2026],
+[71,"Light Bluish Gray","A0A5A9",false,2002,2026],
+[78,"Light Nougat","F6D7B3",false,2004,2026],
+[179,"Flat Silver","898788",false,2009,2026],
+[297,"Pearl Gold","AA7F2E",false,2004,2026],
+[9999,"[No Color/Any Color]","05131D",false,1949,2026]
+]}
