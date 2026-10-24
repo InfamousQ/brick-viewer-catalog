@@ -1,0 +1,13 @@
+# The 10 designs of docs/sample-data.md. Each part pulls in its whole mold group.
+3001          # Brick 2 x 4: large star-shaped group
+3003          # Brick 2 x 2: normal group, identical names
+3003c         # Brick 2 x 2 slotted: separate group, two mold parents
+3245c         # Brick 1 x 2 x 2: two roots, transitive chain
+3188          # Door 1 x 3 x 2 Right: cycle
+4079b         # Seat / Chair 2 x 2: edge in both directions
+3626c         # Minifig Head (plain): dense graph
+3626bpr0816   # Minifig Head, Obi-Wan print: print with its own M edge
+4485          # Hat / Cap: print trap (with the two prints below)
+4485pr0001
+86035pr0001
+3710          # Plate 1 x 4: no variants

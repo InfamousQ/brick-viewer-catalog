@@ -1,0 +1,46 @@
+{
+  "format": 1,
+  "version": "2026.10.24",
+  "source": {
+    "name": "Rebrickable",
+    "url": "https://rebrickable.com/downloads/",
+    "download_url": "https://cdn.rebrickable.com/media/downloads/",
+    "downloaded": "2026-10-24",
+    "files": {
+      "parts.csv.gz": "sha256:8c3cd699daab3ca7dac0d71003d0cf81fb9215122741ae40703e41671d15fa59",
+      "part_categories.csv.gz": "sha256:1d79a237708014aecfd4eadcc5a5db8cb20efe8b9f9d3f105ec2c8d9328cefc6",
+      "part_relationships.csv.gz": "sha256:77197478b8af96a48964ac91b37983fffebdfb63183f2826da64f56bb961d03d",
+      "colors.csv.gz": "sha256:8eafe535e3e2d7dd46ee9349335c52c680509016b7fdf83bac67082b4ec9babe",
+      "elements.csv.gz": "sha256:93a686f4d84516c25936e5d1b2c55511a96a89e6167c0eb0e36064cde86ddce4",
+      "inventory_parts.csv.gz": "sha256:01c3b8a9b81c06ceaf018485a4f12b0c5639d0799f7116f96f3e3808e03b968b"
+    }
+  },
+  "attribution": "Catalog data from Rebrickable (https://rebrickable.com/).",
+  "files": {
+    "parts.json": {
+      "rows": 64906,
+      "bytes": 6233666,
+      "sha256": "sha256:d3ea06ee1f2b63fb0036c06b7f305d33631dbe853c72c1634a49f53186bf47e3"
+    },
+    "categories.json": {
+      "rows": 76,
+      "bytes": 1982,
+      "sha256": "sha256:cf96f7dc69190f9d21b9f793dd06e838fd40a06eb5e84e3859dfd3f7bca935ba"
+    },
+    "mold_groups.json": {
+      "rows": 933,
+      "bytes": 23829,
+      "sha256": "sha256:5e1c18286712299723d276122504c3733248f7b2efc99aeddaf0e92801d9ebcc"
+    },
+    "colors.json": {
+      "rows": 275,
+      "bytes": 13507,
+      "sha256": "sha256:c2404a14e119f4eec5cf5472261d82221cee57903235eb98a2ac46d1d7f325c1"
+    },
+    "part_colors.json": {
+      "rows": 110105,
+      "bytes": 1915824,
+      "sha256": "sha256:bfa6ba2bd04642970a0969b31338244b6a7e1294ff2867e241a6500816475b2b"
+    }
+  }
+}
